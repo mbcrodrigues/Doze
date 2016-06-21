@@ -1,0 +1,24 @@
+Aluno:
+Validar uma presença numa aula de uma determinada uc através de impressão digital? cartão?
+Consultar a assiduidade numa determinada uc:
+	Lista de todas as uc em que está inscrito
+	Aulas assistidas/leccionadas
+	Percentagem de aulas assistidas de cada uc
+	Data da última aula assistida de cada uc?
+	Data em que foi à 1ª aula de cada uc?
+	Aparecer foto do aluno
+Sistema de backup: inserir nº de aluno e pass -> prof a ver sempre
+.......
+
+Prof:
+Criar uma aula para uma determinada uc
+	Escolher cadeira (lista de todaas as cadeiras dadas)
+	Escrever sumário
+	Aparecer data do dia
+	
+Consultar a assiduidade de um aluno numa determinada uc? igual à do aluno?
+Criar uma cadeira? "Prof passa a dar SO, IPC e agora P2... então inscreve-se"
+
+----------------------
+
+Ligar moodle, portal e isto? Fazer um só? 
